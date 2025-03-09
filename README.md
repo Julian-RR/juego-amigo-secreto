@@ -45,21 +45,21 @@ El script principal js/script.js permite:
 
 ## 📜 Cómo Usar
 
-Abrir el archivo index.html en un navegador.
+- Abrir el archivo index.html en un navegador.
 
-Ingresar nombres en el campo de entrada y agregarlos a la lista.
+- Ingresar nombres en el campo de entrada y agregarlos a la lista.
 
-Hacer clic en "Sortear" para asignar aleatoriamente los amigos secretos.
+- Hacer clic en "Sortear" para asignar aleatoriamente los amigos secretos.
 
-Visualizar los resultados en la ventana emergente.
+- Visualizar los resultados en la ventana emergente.
 
 ## 📌 Tecnologías Utilizadas
 
-HTML5 → Estructura del contenido.
+- HTML5 → Estructura del contenido.
 
-CSS3 → Estilos y diseño responsivo.
+- CSS3 → Estilos y diseño responsivo.
 
-JavaScript → Lógica del sorteo y manipulación del DOM.
+- JavaScript → Lógica del sorteo y manipulación del DOM.
 
 ## 🎥 Video de demostración
 
