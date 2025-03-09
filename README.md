@@ -33,15 +33,15 @@ Los estilos se encuentran en css/styles.css, donde se definen variables como:
     -color-white: #FFFFFF;
 }
 
-##⚙️ Funcionalidad (JS)
+## ⚙️ Funcionalidad (JS)
 
 El script principal js/script.js permite:
 
-Agregar nombres a la lista.
+- Agregar nombres a la lista.
 
-Sortear parejas de manera aleatoria.
+- Sortear parejas de manera aleatoria.
 
-Mostrar el resultado en una ventana emergente.
+- Mostrar el resultado en una ventana emergente.
 
 ## 📜 Cómo Usar
 
